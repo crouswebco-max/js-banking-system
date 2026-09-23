@@ -4,6 +4,8 @@ A simple banking system built with an ES6 class. You can create bank accounts, d
 
 I built it as the JavaScript checkpoint project for the IT Online Learning JavaScript Essentials course (Module 3, Activity 3.1). The rest of my coursework is in [itonlinelearning-coursework](https://github.com/crouswebco-max/itonlinelearning-coursework).
 
+**Live demo:** https://crouswebco-max.github.io/js-banking-system/ (open the console with F12 to see it working)
+
 ## Get the code
 
 ```text
